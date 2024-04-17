@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@langchain/community": "^0.0.47",
+    "langchain": "^0.1.33"
+  },
+  "name": "langchain-js-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
